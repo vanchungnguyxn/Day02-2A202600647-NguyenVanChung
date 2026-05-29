@@ -34,7 +34,7 @@ Một shop online nhỏ thường bán hàng trên nhiều nền tảng khác nh
 
 ### Data note
 
-Nguồn dữ liệu dự kiến dùng là Online Shopping Dataset trên Kaggle.
+Nguồn dữ liệu dự kiến dùng là Online Shopping Dataset[link]((https://www.kaggle.com/code/khansahil128/online-shopping-dataset)) trên Kaggle.
 
 Dataset này được dùng làm dữ liệu tham chiếu để mô phỏng các thông tin shop thường cần tra cứu khi trả lời khách hàng, ví dụ: sản phẩm, giá, phí vận chuyển, coupon/discount và thông tin giao dịch. Dataset này không phải chat log thật, nên các chỉ số như thời gian phản hồi, số tin nhắn bị bỏ sót và tổng thời gian xử lý mỗi ngày là baseline ước lượng, cần validate thêm bằng khảo sát hoặc quan sát thực tế.
 
